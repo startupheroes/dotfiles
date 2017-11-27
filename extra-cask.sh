@@ -8,7 +8,7 @@ brew cask install gogland
 brew cask install google-chrome
 brew cask install intellij-idea
 brew cask install iterm2
-brew cask installjava
+brew cask install java
 brew cask install mat
 brew cask install skype
 brew cask install slack
