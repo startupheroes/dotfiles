@@ -19,3 +19,4 @@ brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
 brew cask install whatsapp
+brew cask install docker
