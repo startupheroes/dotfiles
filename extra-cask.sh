@@ -1,12 +1,8 @@
 #!/usr/bin/env bash
-brew cask install android-studio
-brew cask install datagrip
 brew cask install dropbox
 brew cask install firefox
 brew cask install flycut
-brew cask install goland
 brew cask install google-chrome
-brew cask install intellij-idea
 brew cask install iterm2
 brew cask install java
 brew cask install mat
@@ -20,3 +16,8 @@ brew cask install virtualbox
 brew cask install vlc
 brew cask install whatsapp
 brew cask install docker
+brew cask install intellij-idea
+brew cask install datagrip
+brew cask install webstorm
+brew cask install goland
+brew cask install android-studio
